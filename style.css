@@ -1,0 +1,21 @@
+body{
+	background-image: url(asset/photo_2023-04-01_10-54-36.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	font-family: 'Lobster Two', cursive;
+	background-color: bisque;
+}
+
+.btn:hover {
+	background-color: rgb(4, 7, 93);
+	color:rgb(255, 255, 255);
+	border: 2px solid rgba(0, 0, 0, 0.6);
+	border-radius: 5px;
+}
+
+.btn{
+	color: rgba(255, 255, 255); 
+	background-color: rgb(0, 0, 0);
+	font-size:25px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
